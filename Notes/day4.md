@@ -8,7 +8,7 @@ For you customer journey, create a role/ for you and a main purpose. While you p
 ### Self
 * Middle Aged Salaryman
 * 20th waifu anniversary
-    * jewellery gift
+    - [x] jewellery gift (6F)
 
 ### Neighbour/Colleage
 * Similar age range
@@ -31,7 +31,7 @@ Need at least 6.
 - [x] Look in the food section for a special lunch box that you bring home for an elderly relative
 
 - [x] Go to the special section where the year-end (お歳暮（Oseibo) gifts are displayed and select something for a neighbor/colleague who has supported you throughout the year.
-  - 6F 
+  - These can be found on 6F 
 
 - [ ] Go to the section where you can order the special food sets for the New Year celebrations with family and select a set. おせち料理 
   - [ ] B2F

@@ -3,6 +3,8 @@
 Born in downtown Tokyo 1963  
 Graduated 1986  
 
+Recurring Question: <b><i><u>What is the place of physical shops now?</b></i></u>
+
 > ⼗分な対話ｽﾍﾟｰｽを確保し｢ｱﾝﾊﾞｻﾀﾞｰ｣による接客も  
 
 developing ai systems  
@@ -60,7 +62,6 @@ dejitaruka wa okureteimasu
 
 thanks to the covid, kigyou no wei ji gan (:skull:)
 
-gyouseki
 
 people going to physical stores decreased (well no shit)
 
@@ -73,7 +74,6 @@ green - service market
 orange - digital
 blue - product
 
-karitsu
 
 EC is only 8.08* of the products
 fashion is 19.44% of e commerce
@@ -85,8 +85,74 @@ there are still many people who still go to physical stores in japan, we have to
 
 |point|real|online|
 |---|---|---|
-|sales|can be bought immediately|cannot be bought immediately|
+|sales/消費者行動|can be bought immediately|cannot be bought immediately|
 |merchandising|can be touched can be felt||
-|service|face to face communication||
+|service|face to face communication|smooth payment|
 |societal value||ability to write reviews, 2 way communication|
 |||convenience of being accessible whenever|
+
+
+
+
+ok wait what the hell is a concierge
+
+
+yuugo
+
+OMO taiken
+what is OMO?
+
+Online merges with Offline
+
+fucking hell japan
+
+keikenkachi marketing
+
+smith's keiken kachi marketing
+
+shouhisha
+
+retailer side may think there are different channels
+
+but the customers don't feel this separation anymore, they don't feel that these are different things
+
+online jou
+
+masa ni
+
+kouritsuka
+
+kanshite
+
+digitalisation eventually changes the whole business model
+
+when someone comes to the store for the first time, the objective is that they buy online next time. Objective is to create a good enough experience at the physical shop
+
+Lifetime Value
+Shougaikachi  
+
+previously, you would sell to a digital shopping mall, and that was all you did
+
+uketoru
+
+in the new system you get connected to the actual stores
+
+creating new value for the customer
+
+## starbungs
+mobile order   
+order in advance and also pay for it
+no need to pay at register anymore  
+koujou  
+counter staff can instead be used to communicate with customers on the online platform  
+
+## shop experience in the digital age
+try to merge the offline and online data on customer's behaviour
+
+how to educate sales staff in the digital age?
+
+
+## touch to go
+amazon go  
+in San Fran  
+

@@ -1,5 +1,6 @@
 # Terminology used during lectures
 
+<I>JS2880A is very taihen...</I>
 
 ## UNIQLO vs ZARA
 |Word|Reading|Meaning|
@@ -53,3 +54,21 @@
 |買回品|kaimawahin(買い回り品)|idk but examples are fashion goods/apparel clothing|
 |専門品|senmonhin|specialty goods eg golf club|
 ---
+## Adastria Fieldwork
+|Word|Reading|Meaning|
+|---|---|---|
+|目的としている|mokuteki to shiteiru|make something ones goal|
+|売り上げ|uriage|sales|
+|取り入れる|toriireru|adopt (an idea)|
+|程度|teido|degree/amount|
+|一定数|itteisuu|fixed number|
+|既存|kizon|currently existing|
+|商品開発|shouhinkaihatsu|product development|
+|滅多に|mettani|rare|
+
+## Jun Japan
+|Word|Reading|Meaning|
+|---|---|---|
+|中核|chuukaku|core/center|
+|素材|sozai|ingredient/material|
+|慎重|shinchou|careful/cautious|
