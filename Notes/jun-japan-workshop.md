@@ -42,5 +42,10 @@ only a portion of customers
 shibori
 sabetsuka
 otonashii iro no shouhin wo tori ire
-
+uresuji
+hoshuuteki
+itteisu
+teidou
+kizon
+metta
 How to optimise and refine hun's brand
